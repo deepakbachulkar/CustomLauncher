@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="apps">Apps</string>
+    <string name="version_code">Version Code:</string>
+    <string name="version_name">Version Name:</string>
+    <string name="app_search">App search</string>
+    <string name="ok">OK</string>
+    <string name="app_details">App Details</string>
+</resources>
